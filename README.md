@@ -1,10 +1,10 @@
 ## STRIDE_project_template
 Setting up a template repository to manage STRIDE projects
 
-The purpose of this project is [].
-My hypothesis is [].
+The purpose of this project is to examine the spatial prevalence of food banks in the Western US.
+My hypothesis is that food banks are inequitably distributed. I hypothesize that distribution varies by the regions racial composition, poverty levels, and rurality..
 
-I plan to collect data from [] and [] and []. 
+I plan to collect data from IPUMS, 990 forms and a database that I will build by looking at Feeding America, government websites, the IRS, and Google for food banks.
 
 I plan to use [] as my test set.
 
